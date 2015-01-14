@@ -1,0 +1,6 @@
+- [ ] Suporte às 7 Dynamic Views
+- Somente a View Magazine é suportada oficialmente
+- [ ] Temas para todas as [paletas da especificação](http://www.google.com/design/spec/style/color.html#color-color-palette)
+- As paletas Brown, Grey e Blue Grey ainda não possuem temas próprios
+- [ ] todos os controles de formulário seguindo a especificação
+- [ ] versões compactadas através de minificadores de código
